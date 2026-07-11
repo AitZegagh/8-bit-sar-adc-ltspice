@@ -1,0 +1,9 @@
+# LTspice schematic and symbol files are commonly stored as UTF-16.
+*.asc binary
+*.asy binary
+
+# SPICE model files remain text.
+*.lib text
+*.sub text
+*.mod text
+*.301 text

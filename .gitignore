@@ -1,0 +1,17 @@
+# LTspice generated simulation files
+*.raw
+*.op.raw
+*.log
+*.net
+*.fft
+*.tmp
+*.bak
+*.plt
+
+# Windows files
+Thumbs.db
+Desktop.ini
+
+# Editor folders
+.vscode/
+.idea/
